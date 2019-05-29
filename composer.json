@@ -1,0 +1,6 @@
+{
+    "require": {
+        "crehler/flysystem-ovh": "*"
+    },
+    "minimum-stability": "dev"
+}

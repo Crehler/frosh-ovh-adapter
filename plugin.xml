@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/plugin.xsd">
+
+    <version>1.0.0</version>
+    <copyright>Friends of Shopware</copyright>
+    <license>MIT</license>
+    <link>https://friendsofshopware.github.io/</link>
+    <author>Friends of Shopware</author>
+
+    <label lang="de">Media Adapter: OVH</label>
+    <label lang="en">Media adapter: OVH</label>
+
+
+    <compatibility minVersion="5.2.0"/>
+
+</plugin>
