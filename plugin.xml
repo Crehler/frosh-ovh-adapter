@@ -15,4 +15,9 @@
 
     <compatibility minVersion="5.2.0"/>
 
+    <changelog version="1.0.0">
+        <changes lang="de">Initiales Release</changes>
+        <changes lang="en">Initial release</changes>
+    </changelog>
+
 </plugin>

@@ -1,4 +1,8 @@
 {
+    "name": "crehler/froshovhadapter",
+    "type": "shopware-plugin",
+    "license": "MIT",
+    "version": "1.0.0",
     "require": {
         "crehler/flysystem-ovh": "*"
     }
