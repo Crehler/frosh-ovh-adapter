@@ -20,7 +20,7 @@ Update your `config.php` in your root directory and fill in your own values
 
 ```php
 'cdn' => [
-    'backend' => 'sftp',
+    'backend' => 'ovh',
     'adapters' => [
         'ovh' => [
             'type' => 'ovh',
