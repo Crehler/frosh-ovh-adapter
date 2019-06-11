@@ -4,6 +4,6 @@
     "license": "MIT",
     "version": "1.0.0",
     "require": {
-        "crehler/flysystem-ovh": "*"
+        "crehler/flysystem-ovh": "1.0.1"
     }
 }
