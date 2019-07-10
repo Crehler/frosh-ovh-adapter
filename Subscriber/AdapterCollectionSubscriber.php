@@ -47,21 +47,6 @@ class AdapterCollectionSubscriber implements SubscriberInterface
             'region'    => '',
             'headers' => [
                 'Cache-Control' => 'max-age=604800, public'
-            ],
-            'expires' => [
-                'jpeg' => '+1 month',
-                'jpg' => '+1 month',
-                'png' => '+1 month',
-                'gif' => '+1 month',
-                'css' => '+1 month',
-                'js' => '+1 month',
-                'woff' => '+1 month',
-                'woff2' => '+1 month',
-                'ttf' => '+1 month',
-                'svg' => '+1 month',
-                'webp' => '+1 month',
-                'eot' => '+1 month',
-                'ico' => '+1 month'
             ]
         ];
 

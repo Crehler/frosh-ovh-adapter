@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "55c45c604c81f0cb1aa6fb18cc2619c2",
+    "content-hash": "e1a478d189e8b809f51454b892613b9d",
     "packages": [
         {
             "name": "crehler/flysystem-ovh",
-            "version": "v1.0",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Crehler/flysystem-ovh.git",
-                "reference": "80e01432860e42fdcafc4d002b0d8ab035887d1d"
+                "reference": "f1496ef272e08081303d7b521cbc703378e77243"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Crehler/flysystem-ovh/zipball/80e01432860e42fdcafc4d002b0d8ab035887d1d",
-                "reference": "80e01432860e42fdcafc4d002b0d8ab035887d1d",
+                "url": "https://api.github.com/repos/Crehler/flysystem-ovh/zipball/f1496ef272e08081303d7b521cbc703378e77243",
+                "reference": "f1496ef272e08081303d7b521cbc703378e77243",
                 "shasum": ""
             },
             "require": {
@@ -30,14 +30,9 @@
                 "phpunit/phpunit": "~4.0"
             },
             "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-master": "1.0-dev"
-                }
-            },
             "autoload": {
                 "psr-4": {
-                    "Engineor\\Flysystem\\": "src/"
+                    "Crehler\\Flysystem\\": "src/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -51,7 +46,7 @@
                 }
             ],
             "description": "Flysystem adapter for OVH",
-            "time": "2019-05-29T12:55:47+00:00"
+            "time": "2019-07-10T08:16:01+00:00"
         },
         {
             "name": "guzzle/guzzle",
@@ -151,16 +146,16 @@
         },
         {
             "name": "league/flysystem",
-            "version": "1.0.52",
+            "version": "1.0.53",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "c5a5097156387970e6f0ccfcdf03f752856f3391"
+                "reference": "08e12b7628f035600634a5e76d95b5eb66cea674"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/c5a5097156387970e6f0ccfcdf03f752856f3391",
-                "reference": "c5a5097156387970e6f0ccfcdf03f752856f3391",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/08e12b7628f035600634a5e76d95b5eb66cea674",
+                "reference": "08e12b7628f035600634a5e76d95b5eb66cea674",
                 "shasum": ""
             },
             "require": {
@@ -231,7 +226,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2019-05-20T20:21:14+00:00"
+            "time": "2019-06-18T20:09:29+00:00"
         },
         {
             "name": "mikemccabe/json-patch-php",
